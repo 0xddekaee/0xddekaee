@@ -1,15 +1,12 @@
 <div align="center">
-  <!-- PERSONAL PHOTO -->
-  <img src="foto.png" width="150" height="150" style="border-radius:50%; object-fit:cover; border:1px solid #2a2a2a;" /><br/><br/>
+  <img src="ddekaee.png" width="300" height="300"/><br/><br/>
 
   **𝐀𝐫𝐲𝐚 𝐃𝐞𝐤𝐚 𝐀𝐥𝐡𝐚𝐝𝐢𝐝**<br/>
   *Software & System Developer*<br/>
   Focused on structured, scalable, and maintainable digital systems.<br/><br/>
 
-  <!-- OLD MONEY VIBE GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="560" /><br/><br/>
 
-  <!-- CORE BADGES -->
   <img src="https://img.shields.io/badge/System_Architecture-121212?style=flat-square" />
   <img src="https://img.shields.io/badge/Software_Development-1a1a1a?style=flat-square" />
   <img src="https://img.shields.io/badge/Web_Engineering-222222?style=flat-square" />
