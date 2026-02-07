@@ -69,6 +69,5 @@ Untuk kolaborasi profesional atau diskusi serius.
 ---
 
 ## 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞
-<img src="badge/instagram.svg" width="50" style="margin-right:10px;" />
-<img src="badge/linkedin.svg" width="50" />
+<img src="badge/instagram.svg" width="50" style="margin-right:10px;" />  <img src="badge/linkedin.svg" width="50" />
 
