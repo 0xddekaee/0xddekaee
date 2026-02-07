@@ -73,7 +73,7 @@ Untuk kolaborasi profesional atau diskusi serius.
   <a href="https://instagram.com/ddekaee" target="_blank">
     <img src="badge/instagram.svg" width="80" />
   </a>
-  <a href="https://linkedin.com/in/arya-deka-al-hadid" target="_blank">
+  <a href="https://www.linkedin.com/in/arya-deka-al-hadid-661a18375" target="_blank">
     <img src="badge/linkedin.svg" width="80" />
   </a>
 </div>
