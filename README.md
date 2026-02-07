@@ -34,30 +34,30 @@ Area kerja dan riset utama:
 
 ## 👑 𝐑𝐨𝐥𝐞 & 𝐂𝐨𝐦𝐩𝐚𝐧𝐲
 **Founder & Direktur Utama — Adaul**  
-<img src="badge/adaul.svg" width="140" />  
+<img src="badge/adaul.svg" width="80" />  
 
 **Lead Developer / Software Engineer — Adaul-Developer**  
-<img src="badge/adaul-developper.svg" width="140" />  
+<img src="badge/adaul-developper.svg" width="80" />  
 
 ---
 
 ## 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 ### Backend & Core
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-0D0D0D?style=for-the-badge&logo=hardhat&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-0D0D0D?style=flat-square&logo=hardhat&logoColor=white)
 
 ### Frontend & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Astro](https://img.shields.io/badge/Astro-232A47?style=for-the-badge&logo=astro&logoColor=white)
-![SolidJS](https://img.shields.io/badge/Solid-4979B2?style=for-the-badge&logo=solid&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-232A47?style=flat-square&logo=astro&logoColor=white)
+![SolidJS](https://img.shields.io/badge/Solid-4979B2?style=flat-square&logo=solid&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ---
 
@@ -69,5 +69,5 @@ Untuk kolaborasi profesional atau diskusi serius.
 ---
 
 ## 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞
-<img src="badge/instagram.svg" width="120" />  
-<img src="badge/linkedin.svg" width="120" />
+<img src="badge/instagram.svg" width="80" />  
+<img src="badge/linkedin.svg" width="80" />
