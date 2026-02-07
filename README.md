@@ -37,7 +37,7 @@ Area kerja dan riset utama:
 <img src="badge/adaul.svg" width="80" />  
 
 **Lead Developer / Software Engineer — Adaul-Developer**  
-<img src="badge/adaul-developper.svg" width="80" />  
+<img src="badge/adauldev.svg" width="80" />  
 
 ---
 
