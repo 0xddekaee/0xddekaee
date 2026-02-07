@@ -64,7 +64,7 @@ Area kerja dan riset utama:
 ## 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 Untuk kolaborasi profesional atau diskusi serius.
 
-[![Email](https://img.shields.io/badge/Email-yourname@email.com-ffffff?style=flat-square&logo=gmail&logoColor=black)](mailto:yourname@email.com)
+[![Email](https://img.shields.io/badge/Email-adekaalhadid@gmail.com-ffffff?style=flat-square&logo=gmail&logoColor=black)](mailto:adekaalhadid@gmail.com)
 
 ---
 
