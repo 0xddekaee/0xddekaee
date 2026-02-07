@@ -70,7 +70,7 @@ Untuk kolaborasi profesional atau diskusi serius.
 
 ## 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞
 <div style="display:flex; justify-content:center; gap:10px;">
-  <img src="badge/instagram.svg" width="" 80/>
+  <img src="badge/instagram.svg" width="80" />
   <img src="badge/linkedin.svg" width="80" />
 </div>
 
