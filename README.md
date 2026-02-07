@@ -32,53 +32,23 @@ Area kerja dan riset utama:
 
 ---
 
-## 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞
-Website ini adalah personal branding hub, bukan sekadar showcase project.<br/>
-Di dalamnya:
+## 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
-- Profil lengkap & background
-- Dokumentasi pendekatan sistem
-- Artikel, insight, dan update profesional
-- Kontak resmi untuk kerja sama
+### Backend & Core
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-0D0D0D?style=for-the-badge&logo=hardhat&logoColor=white)
 
-[![Personal Website](https://img.shields.io/badge/Personal_Website-Visit-0f0f0f?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-site.com)
-
----
-
-## 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
-
-**Founder & Lead Developer — Adaul**  
-2026 — Present  
-Custom software development & integrated digital solutions.
-
-**Freelance Web Developer — Independent**  
-2025 — Present  
-Modern web development dengan pendekatan struktural & fungsional.
-
-**Webinar Host / Speaker — Professional Education**  
-2024 — 2025  
-Materi teknis & fundamental digital untuk publik dan profesional.
-
-**Digital Entrepreneur — Store Joki MLBB**  
-2023 — 2024  
-Operational management, customer trust, dan service delivery.
-
----
-
-## 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
-
-![Software Development](https://img.shields.io/badge/Software_Development-141414?style=flat-square)
-![Web Development](https://img.shields.io/badge/Web_Development-1f1f1f?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-292929?style=flat-square)
-![Information Research](https://img.shields.io/badge/Information_Research-1b1b1b?style=flat-square)
-![Digital Strategy](https://img.shields.io/badge/Digital_Strategy-232323?style=flat-square)
-
----
-
-## 𝐖𝐫𝐢𝐭𝐢𝐧𝐠
-Catatan dan tulisan seputar sistem, teknologi, dan riset.
-
-[![Medium](https://img.shields.io/badge/Medium-Read_Articles-121212?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aryadeka)
+### Frontend & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-232A47?style=for-the-badge&logo=astro&logoColor=white)
+![SolidJS](https://img.shields.io/badge/Solid-4979B2?style=for-the-badge&logo=solid&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ---
 
@@ -92,4 +62,3 @@ Untuk kolaborasi profesional atau diskusi serius.
 ## 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞
 [![Instagram](https://img.shields.io/badge/Instagram-1c1c1c?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![X](https://img.shields.io/badge/X-181818?style=flat-square&logo=x&logoColor=white)](https://twitter.com/yourusername)
