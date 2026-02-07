@@ -32,6 +32,15 @@ Area kerja dan riset utama:
 
 ---
 
+## 👑 𝐑𝐨𝐥𝐞 & 𝐂𝐨𝐦𝐩𝐚𝐧𝐲
+**Founder & Direktur Utama — Adaul**  
+<img src="badge/adaul.svg" width="140" />  
+
+**Lead Developer / Software Engineer — Adaul-Developer**  
+<img src="badge/adaul-developper.svg" width="140" />  
+
+---
+
 ## 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 ### Backend & Core
@@ -60,5 +69,5 @@ Untuk kolaborasi profesional atau diskusi serius.
 ---
 
 ## 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞
-[![Instagram](https://img.shields.io/badge/Instagram-1c1c1c?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+<img src="badge/instagram.svg" width="120" />  
+<img src="badge/linkedin.svg" width="120" />
