@@ -49,7 +49,7 @@ Area kerja dan riset utama:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-0D0D0D?style=flat-square&logo=hardhat&logoColor=white)
+<img src="badge/hardhat-logo.svg" width="30"
 
 ### Frontend & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
